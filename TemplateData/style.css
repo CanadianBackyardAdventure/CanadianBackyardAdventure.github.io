@@ -20,9 +20,10 @@
 .controls {
     position: absolute;
     margin-top: 10%;
-    margin-left: 5%; 
+    margin-left: 4%; 
     float: left; 
     color: #dee2e9;
+    font-size: 18px;
 }
 
 /* Make background darker  */
