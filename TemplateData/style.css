@@ -18,7 +18,11 @@
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 
 .controls {
-    margin-right: 10px; float: right; color: #dee2e9;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 5%; 
+    float: left; 
+    color: #dee2e9;
 }
 
 /* Make background darker  */
